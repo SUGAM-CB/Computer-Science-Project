@@ -18,17 +18,19 @@ Project Goals:
 
 -> To demonstrate how machine learning and web technologies can enhance smart city applications through personalization.
 
+
 Phase status:
 
-Development phase
+   Development phase
 
 -> abstract,introduction and related work defined
 
 -> 
 
+
 Risk Concideration:
 
-This project involves several potential risks related to data, performance, and technical implementation
+ This project involves several potential risks related to data, performance, and technical implementation
 
   -> risk related to data availability as public APIs have limited data access
 
