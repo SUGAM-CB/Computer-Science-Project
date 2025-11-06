@@ -8,6 +8,13 @@ Proposed solution: The project proposes developing a Berlin Event Recommendation
 
 Expected outcome: The expected deliverable is an operational prototype demonstrating how web applications supported by databases and machine learning methods can help improve discovery of local events. The project will display the integration of data collection, ML modeling, and web deployment and how computational techniques can enrich real-world user experiences in urban life.
 
+Project Goals:
+-> To develop a personalized event recommendation system
+-> To implement a content-based filtering model using TF-IDF and cosine similarity
+-> To save users time by eliminating the need to manually browse through large event listings on different websites.
+-> To encourage international students and newcomers to easily discover events aligned with their interests and networks.
+-> To demonstrate how machine learning and web technologies can enhance smart city applications through personalization.
+
 <img width="451" height="128" alt="image" src="https://github.com/user-attachments/assets/25c6d5e9-5032-4f1a-9cd0-4bde4019d942" />
 
 
