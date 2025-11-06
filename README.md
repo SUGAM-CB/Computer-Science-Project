@@ -6,8 +6,6 @@ Problem statement: In a city like Berlin, there are hundreds of things to do eve
 Proposed solution: The project proposes developing a Berlin Event Recommendation System utilizing machine learning and data-driven personalization to recommend events based on users' interests. Event data will be collected from public APIs or web scraping from sources such as Eventbrite, Meetup, or Berlin.de. The system will preprocess event data and use content-based filtering—applying TF-IDF vectorization and cosine similarity to match user interest with event descriptions and categories. A light-weighted Flask-based web application will serve as the user interface where the user will enter preferences (e.g., music, technology, art) and be recommended personalized events.
 
 
-Expected outcome: The expected deliverable is an operational prototype demonstrating how web applications supported by databases and machine learning methods can help improve discovery of local events. The project will display the integration of data collection, ML modeling, and web deployment and how computational techniques can enrich real-world user experiences in urban life.
-
 Project Goals:
 
 -> To develop a personalized event recommendation system
@@ -19,6 +17,29 @@ Project Goals:
 -> To encourage international students and newcomers to easily discover events aligned with their interests and networks.
 
 -> To demonstrate how machine learning and web technologies can enhance smart city applications through personalization.
+
+Phase status:
+
+Development phase
+
+-> abstract,introduction and related work defined
+
+-> 
+
+Risk Concideration:
+
+This project involves several potential risks related to data, performance, and technical implementation
+
+  -> risk related to data availability as public APIs have limited data access
+
+  -> data quality could reduce the accuracy of recommendation as data may contain outdated or inconsistent information
+
+  -> TF-IDF and cosine similarity calculations could become slower as the dataset grows
+
+  -> New users with very limited input or uncommon interests may receive less relevant recommendations
+
+  -> The current system is designed for a prototype-scale dataset; scaling to large, live event databases may require backend redesign or database integration
+  
 
 <img width="451" height="128" alt="image" src="https://github.com/user-attachments/assets/25c6d5e9-5032-4f1a-9cd0-4bde4019d942" />
 
