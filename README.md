@@ -73,7 +73,7 @@ Phase status:
 
 Risk Concideration:
 
- This project involves several potential risks related to data, performance, and technical implementation
+ This project involves several risks related to data, performance, and technical implementation
 
   -> risk related to data availability as public APIs have limited data access
 
