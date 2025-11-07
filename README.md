@@ -57,7 +57,7 @@ Phase status:
 
    The project is in Development phase
    
--> data is collected and preprocessed
+-> data is collected from available api and preprocessed 
 
 -> Model development is in progress
 
