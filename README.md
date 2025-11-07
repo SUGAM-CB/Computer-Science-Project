@@ -84,6 +84,57 @@ Risk Concideration:
   -> New users with very limited input or uncommon interests may receive less relevant recommendations
 
   -> The current system is designed for a prototype-scale dataset. scaling to large, live event databases may require backend redesign or database integration
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UML DIAGRAM:
+
+         ┌────────────────────────┐
+         │        Start           │
+         └──────────┬────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ User enters interest    │
+        │ (e.g., music, AI, art) │
+        └────────────────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ Flask receives input    │
+        │ and validates it        │
+        └────────────────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ TF-IDF vectorization of │
+        │ user input              │
+        └────────────────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ Compute cosine          │
+        │ similarity scores       │
+        └────────────────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ Select top N events     │
+        │ with highest similarity │
+        └────────────────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ Display results on UI   │
+        └────────────────────────┘
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │          End            │
+        └────────────────────────┘
+
+
+
   
 
 <img width="451" height="128" alt="image" src="https://github.com/user-attachments/assets/25c6d5e9-5032-4f1a-9cd0-4bde4019d942" />
