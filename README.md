@@ -23,13 +23,13 @@ Project Goals:
 #Tech Stack Overview:
 
 
-##-> Programming & Frameworks
+-> Programming & Frameworks
 
-###  Python 3.10+ — Core development language.
+_Python 3.10+ — Core development language._
 
-### Flask — Lightweight backend web framework for routing and user interaction.
+_Flask — Lightweight backend web framework for routing and user interaction._
 
-###  Bootstrap 5 — For responsive and modern front-end design.
+_Bootstrap 5 — For responsive and modern front-end design._
 
 -> Machine Learning & Data Handling
 
