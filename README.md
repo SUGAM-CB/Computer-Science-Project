@@ -89,48 +89,48 @@ Risk Concideration:
 
 UML DIAGRAM:
 
-         ┌────────────────────────┐
-         │        Start           │
+         ┌───────────────────────┐
+         │        Start          │
          └──────────┬────────────┘
                     │
                     ▼
         ┌────────────────────────┐
-        │ User enters interest    │
+        │ User enters interest   │
         │ (e.g., music, AI, art) │
         └────────────────────────┘
                     │
                     ▼
         ┌────────────────────────┐
-        │ Flask receives input    │
-        │ and validates it        │
+        │ Flask receives input   │
+        │ and validates it       │
         └────────────────────────┘
                     │
                     ▼
         ┌────────────────────────┐
-        │ TF-IDF vectorization of │
-        │ user input              │
+        │ TF-IDF vectorization of│
+        │ user input             │
         └────────────────────────┘
                     │
                     ▼
         ┌────────────────────────┐
-        │ Compute cosine          │
-        │ similarity scores       │
+        │ Compute cosine         │
+        │ similarity scores      │
         └────────────────────────┘
                     │
                     ▼
         ┌────────────────────────┐
-        │ Select top N events     │
-        │ with highest similarity │
+        │ Select top N events    │
+        │ with highest similarity│
         └────────────────────────┘
                     │
                     ▼
         ┌────────────────────────┐
-        │ Display results on UI   │
+        │ Display results on UI  │
         └────────────────────────┘
                     │
                     ▼
         ┌────────────────────────┐
-        │          End            │
+        │          End           │
         └────────────────────────┘
 
 
