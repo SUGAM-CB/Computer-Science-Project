@@ -20,36 +20,37 @@ Project Goals:
 -> To demonstrate how machine learning and web technologies can enhance smart city applications through personalization.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Tech Stack Overview:
-'''
--> Programming & Frameworks
-'''
-  Python 3.10+ — Core development language.
+#Tech Stack Overview:
 
-  Flask — Lightweight backend web framework for routing and user interaction.
 
-  Bootstrap 5 — For responsive and modern front-end design.
-'''
+##-> Programming & Frameworks
+
+###  Python 3.10+ — Core development language.
+
+### Flask — Lightweight backend web framework for routing and user interaction.
+
+###  Bootstrap 5 — For responsive and modern front-end design.
+
 -> Machine Learning & Data Handling
-'''
+
 scikit-learn — Used for TF-IDF vectorization and cosine-similarity calculations.
 
 pandas and NumPy — For data cleaning, manipulation, and analysis.
 
 pickle — For saving and loading trained TF-IDF models.
-'''
+
 -> Data & APIs
-'''
+
 Eventbrite API — Primary data source for event information in Berlin.
 
 CSV files — Local storage of cleaned event datasets.
-'''
+
 -> Tools & Environment
-'''
+
 VS Code — Development environment.
 
 Git / GitHub — Version control and project hosting.
-'''
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Phase status:
