@@ -20,7 +20,7 @@ Project Goals:
 -> To demonstrate how machine learning and web technologies can enhance smart city applications through personalization.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Tech Stack Overview:
+Tech Stack Overview:
 
 
 -> Programming & Frameworks
