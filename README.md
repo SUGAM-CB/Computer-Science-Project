@@ -5,6 +5,7 @@ Problem statement: In a city like Berlin, there are hundreds of things to do eve
 
 Proposed solution: The project proposes developing a Berlin Event Recommendation System utilizing machine learning and data-driven personalization to recommend events based on users' interests. Event data will be collected from public APIs or web scraping from sources such as Eventbrite, Meetup, or Berlin.de. The system will preprocess event data and use content-based filtering—applying TF-IDF vectorization and cosine similarity to match user interest with event descriptions and categories. A light-weighted Flask-based web application will serve as the user interface where the user will enter preferences (e.g., music, technology, art) and be recommended personalized events.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Goals:
 
@@ -18,6 +19,7 @@ Project Goals:
 
 -> To demonstrate how machine learning and web technologies can enhance smart city applications through personalization.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Phase status:
 
@@ -29,6 +31,7 @@ Phase status:
 
 
   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Risk Concideration:
 
