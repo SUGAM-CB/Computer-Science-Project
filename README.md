@@ -56,10 +56,16 @@ Tech Stack Overview:
 Phase status:
 
    The project is in Development phase
+   
+-> data is collected and preprocessed
 
--> abstract,introduction and related work defined
+-> Model development is in progress
 
--> 
+-> Backend integration is planned
+
+-> Frontend is almost completed
+
+
 
 
   
