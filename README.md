@@ -25,31 +25,31 @@ Project Goals:
 
 -> Programming & Frameworks
 
-       _Python 3.10+ — Core development language._
+     Python 3.10+ — Core development language
 
-       _Flask — Lightweight backend web framework for routing and user interaction._
+     Flask — Lightweight backend web framework for routing and user interaction
 
-      _Bootstrap 5 — For responsive and modern front-end design._
+     Bootstrap 5 — For responsive and modern front-end design
 
 -> Machine Learning & Data Handling
 
-scikit-learn — Used for TF-IDF vectorization and cosine-similarity calculations.
+     scikit-learn — Used for TF-IDF vectorization and cosine-similarity calculations
 
-pandas and NumPy — For data cleaning, manipulation, and analysis.
+     pandas and NumPy — For data cleaning, manipulation, and analysis
 
-pickle — For saving and loading trained TF-IDF models.
+     pickle — For saving and loading trained TF-IDF models
 
 -> Data & APIs
 
-Eventbrite API — Primary data source for event information in Berlin.
+     Eventbrite API — Primary data source for event information in Berlin
 
-CSV files — Local storage of cleaned event datasets.
+     CSV files — Local storage of cleaned event datasets
 
 -> Tools & Environment
 
-VS Code — Development environment.
+     VS Code — Development environment
 
-Git / GitHub — Version control and project hosting.
+     Git / GitHub — Version control and project hosting
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
