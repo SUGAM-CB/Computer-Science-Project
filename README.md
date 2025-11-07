@@ -55,7 +55,7 @@ Tech Stack Overview:
 
 Phase status:
 
-   Development phase
+   The project is in Development phase
 
 -> abstract,introduction and related work defined
 
